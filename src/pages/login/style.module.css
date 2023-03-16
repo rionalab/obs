@@ -1,0 +1,12 @@
+.card  {
+   width: 500px;
+   margin: 100px auto;
+   padding: 40px 40px;
+
+}
+
+.header {
+   color:#1E4E79;
+    margin-bottom: 24px;
+    text-align: center;
+}
