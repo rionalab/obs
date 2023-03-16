@@ -2,8 +2,8 @@
 
 ### Login Page
 
-![login page](./login.png)
+![login page](./screenshoot/login.png)
 
 ### Homepage
 
-![Homepage](./homepage.png)
+![Homepage](./screenshoot/homepage.png)
